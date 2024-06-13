@@ -39,7 +39,7 @@ This is Kalulas / EdwardChen
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kalulas&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kalulas&theme=chalk&row=1&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🎃 Github Stats  
 
